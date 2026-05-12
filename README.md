@@ -1,2 +1,2 @@
-# ATIVIDADE
-Aula de Mongoodb/ API HTTP /  React Native
+# TrabalhoMobile2Final
+Atividade de Banco de Dados: MongoDB, SQLite, API HTTP e React Native.
